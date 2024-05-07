@@ -58,7 +58,7 @@ This project demonstrates that machine learning models can predict global temper
 
 ## Full Report
 For the complete analysis and detailed results, refer to the [Full Report](DATA_MINING_PROJECT_REPORT.pdf).
-This is final presentation [Prezi_ppt](https://prezi.com/view/erYXIqazTu2EycS1bqSs/) 
+This is final presentation --> [Prezi_ppt](https://prezi.com/view/erYXIqazTu2EycS1bqSs/) 
 
 ### Acknowledgments
 Special thanks to [Kaggle Dataset Provider](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) and contributors.
