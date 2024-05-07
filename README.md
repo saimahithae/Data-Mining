@@ -62,4 +62,4 @@ For the complete analysis and detailed results, refer to the [Full Report](DATA_
 ### Acknowledgments
 Special thanks to [Kaggle Dataset Provider](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml/data) and contributors.
 
-You can also refer to this [Prezi_ppt](https://prezi.com/view/erYXIqazTu2EycS1bqSs/) for better reference 
+This is final presentation [Prezi_ppt](https://prezi.com/view/erYXIqazTu2EycS1bqSs/) 
