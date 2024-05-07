@@ -56,7 +56,7 @@ KNN Regression | 0.4148 | 0.3537 | 0.2202 | 0.4693
 ## Conclusion
 This project demonstrates that machine learning models can predict global temperature increases based on agri-food emissions data, with Random Forest and Gradient Boosting showing the best performance. Further improvements can be made through advanced feature engineering and interpretability enhancements.
 
-You can also refer to this [Prei_ppt] (https://prezi.com/view/erYXIqazTu2EycS1bqSs/) for better reference 
+You can also refer to this [Prei_ppt](https://prezi.com/view/erYXIqazTu2EycS1bqSs/) for better reference 
 
 
 ## Full Report
